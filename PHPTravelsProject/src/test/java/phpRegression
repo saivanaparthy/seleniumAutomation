@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test" Thread count="2" parallel="classes">
+    <classes>
+      <class name="tests.Login"/>
+      <class name="tests.verifyRegistration"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
